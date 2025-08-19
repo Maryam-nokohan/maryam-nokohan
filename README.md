@@ -12,10 +12,11 @@
 <ul>
   <li>🎓 I'm a computer engineering student with a passion for learning and building creative projects.</li>
   <li>🎮 I enjoy working with C++, and game development tools.</li>
-  <li>🎨 I'm also into digital art, and visual creativity.</li>
+  <li>🎨 I'm also into digital art, you can see my artworks 
+    <a href="https://maryam-nokohan.github.io/my-art-gallery/" target="_blank">here</a>.
+  </li>
   <li>📬 Feel free to reach out: <b>maryam.nokohan@gmail.com</b></li>
 </ul>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
