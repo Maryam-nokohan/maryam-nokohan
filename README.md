@@ -20,11 +20,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/mariaxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mariaxr" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/mariaxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mariaxr" height="30" width="40" /></a> -->
   
-   <a href="mailto:maryam.nokohan@gmail.com" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/minutemailer/000000" alt="Email" height="30" width="40" />
+  <a href="mailto:maryam.nokohan@gmail.com" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="40" />
 </a>
+
 
 </p>
 
