@@ -8,17 +8,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake SVG
+      - name: Generate Dark Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Maryam-nokohan
-          outputs: dist/snake.svg
+          outputs: dist/snake-dark.svg
+          theme: dracula
 
-      - name: Upload artifact (new v4)
+      - name: Upload artifact (v4)
         uses: actions/upload-artifact@v4
         with:
           name: snake
-          path: dist/snake.svg
+          path: dist/snake-dark.svg
 
       - name: Deploy Snake to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
