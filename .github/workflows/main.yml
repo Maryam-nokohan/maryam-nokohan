@@ -8,15 +8,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: Maryam-nokohan
           outputs: dist/snake.svg
-      - name: Upload artifact
-        uses: actions/upload-artifact@v3
+
+      - name: Upload artifact (new v4)
+        uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist/snake.svg
+
       - name: Deploy Snake to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
