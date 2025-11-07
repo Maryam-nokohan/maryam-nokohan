@@ -91,3 +91,14 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=maryam-nokohan&theme=dark" alt="maryam-nokohan" />
 </p>
+
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maryam-nokohan/Maryam-nokohan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maryam-nokohan/Maryam-nokohan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Maryam-nokohan/Maryam-nokohan/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- Purple/Black Footer -->`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0036,50:6900a8,100:000000&height=100&section=footer" width="100%"/>
+
