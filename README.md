@@ -87,10 +87,11 @@
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryam-nokohan&show_icons=true&locale=en&theme=dark" alt="maryam-nokohan" />
 </p>
-
+<!--
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=maryam-nokohan&theme=dark" alt="maryam-nokohan" />
 </p>
+-->
 
 <!-- Snake animation -->
 <picture>
