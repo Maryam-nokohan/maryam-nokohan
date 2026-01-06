@@ -69,9 +69,9 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   </a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
-</a>
+</a> -->
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
@@ -80,13 +80,13 @@
   </a>
 </p>
 
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryam-nokohan&show_icons=true&locale=en&layout=compact&theme=dark" alt="maryam-nokohan" />
 </p>
 
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryam-nokohan&show_icons=true&locale=en&theme=dark" alt="maryam-nokohan" />
-</p>
+</p> -->
 <!--
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=maryam-nokohan&theme=dark" alt="maryam-nokohan" />
