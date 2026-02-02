@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer science student</h3>
 
 
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning backend
 
 - 📫 How to reach me maryam.nokohan@gmail.com
 
