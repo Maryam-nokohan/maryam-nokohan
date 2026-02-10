@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://discord.gg/mariaxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mariaxr" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/maryam-nokohan-79a4aa248/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="mariaxr" height="30" width="40" /></a>
   
   <a href="mailto:maryam.nokohan@gmail.com" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="40" />
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="30" width="40" />
 </a>
 
 
