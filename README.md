@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mary</h1>
-<h3 align="center">A passionate computer science student</h3>
+<h3 align="center">A passionate computer engineering student</h3>
 
 
 - 🌱 I’m currently learning backend
-
-- 📫 How to reach me maryam.nokohan@gmail.com
 
 - <h3 align="left">About Me:</h3>
 
 <ul>
   <li>🎓 I'm a computer engineering student with a passion for learning and building creative projects.</li>
-  <li>🎮 I enjoy working with C++, and game development tools.</li>
+  <li> 🛡️ Backend development focused on security.</li>
+  <li>🎮 I enjoy working with game development tools.</li>
   <li>🎨 I'm also into digital art, you can see my artworks 
     <a href="https://maryam-nokohan.github.io/my-art-gallery/" target="_blank">here</a>.
   </li>
-  <li>📬 Feel free to reach out: <b>maryam.nokohan@gmail.com</b></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
@@ -28,70 +26,68 @@
 
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left"><font color="#89ddff">Languages:</font></h3>
 <p align="left">
+  <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" />
   </a>
- <!-- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a> -->
+  
+  <!-- Go -->
   <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40" />
   </a>
+  
+  <!-- HTML -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" />
+  </a>
+  
+  <!-- Python -->
   <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
   </a> -->
   
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-
-<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
+  <!-- CSS -->
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40" />
+  </a>
 </p>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left"><font color="#89ddff">Tools:</font></h3>
 <p align="left">
-  <a href="https://cmake.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/>
-  </a>
-  <a href="https://www.raylib.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.raylib.com/favicon.ico" alt="raylib" width="40" height="40"/>
-  </a>
+  
+
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
   </a>
-<!--  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
-</a> -->
-  <!-- <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a> -->
-<!-- <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
-</a> -->
+  
+  <!-- Unity -->
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40" />
   </a>
+  
+  <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" />
   </a>
-</p>
-
-<!-- <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryam-nokohan&show_icons=true&locale=en&layout=compact&theme=dark" alt="maryam-nokohan" />
+    <!-- CMake -->
+  <a href="https://cmake.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" width="40" height="40" />
+  </a>
+  
+  <!-- Raylib -->
+  <a href="https://www.raylib.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.raylib.com/favicon.ico" alt="raylib" width="40" height="40" />
+  </a>
+  
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryam-nokohan&show_icons=true&locale=en&theme=dark" alt="maryam-nokohan" />
-</p> -->
-<!--
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=maryam-nokohan&theme=dark" alt="maryam-nokohan" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=maryam-nokohan&theme=nightowl" />
 </p>
--->
+
 
 <!-- Snake animation -->
 <picture>
