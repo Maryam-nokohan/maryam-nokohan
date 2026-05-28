@@ -72,6 +72,26 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" />
   </a>
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" />
+  </a>
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" />
+  </a>
+
+
+
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" />
+  </a>
+
+
+
+</p>
     <!-- CMake -->
   <a href="https://cmake.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" width="40" height="40" />
