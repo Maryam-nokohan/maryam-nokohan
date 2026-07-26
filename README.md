@@ -2,8 +2,6 @@
 <h3 align="center">A computer engineering student</h3>
 
 
-- 🌱 I’m currently learning backend
-
 - <h3 align="left">About Me:</h3>
 
 <ul>
