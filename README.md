@@ -42,9 +42,9 @@
   </a>
   
   <!-- Python -->
-  <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
-  </a> -->
+  </a> 
   
   <!-- CSS -->
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
