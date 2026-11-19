@@ -5,7 +5,7 @@
 - <h3 align="left">About Me:</h3>
 
 <ul>
-  <li>🎓 I'm a computer engineering student with a passion for learning and building creative projects.</li>
+  <li>🎓 I'm a computer science student with a passion for learning and building creative projects.</li>
   <li> 🛡️ Backend development focused on security.</li>
   <li>🎮 I enjoy working with game development tools.</li>
   <li>🎨 I'm also into digital art, you can see my artworks 
